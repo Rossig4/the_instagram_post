@@ -1,0 +1,33 @@
+.container{
+    width: 400px;
+    height: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    background-color: gray;
+}
+
+/*header{
+    display: inline-block;
+    flex-wrap: wrap;
+}*/
+i {
+    display: inline-block;
+    flex-wrap: wrap;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.paragraph {
+    padding: 0px;
+    display: inline-block;
+    flex-wrap: wrap;
+}
+.pepito {
+    margin-top: 70px;
+  }
+
+.iconsfooter {
+    display: flex;
+    justify-content: flex-end;
+}
